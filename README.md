@@ -17,20 +17,18 @@ langkah pertama kalian masuk grub ini!
 
 ---
 
-Bahan
+<ol>
+<h4>Bahan</h4>
 -Data
 
-Teori
+<h4>Teori</h4>
 -analisis
 
-Design
+<h4>Design</h4>
 -UML
 
----
-
-Hasil
+<h4>Hasil</h4>
 -menentukan class
 -menentukan properties
 -menentukan object
-
--
+</ol>
