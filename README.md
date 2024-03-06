@@ -17,6 +17,7 @@ langkah pertama kalian masuk grub ini!
 
 ---
 
+<ul>
 <ol>
 <h4>Bahan</h4>
 -Data
@@ -32,3 +33,4 @@ langkah pertama kalian masuk grub ini!
 -menentukan properties
 -menentukan object
 </ol>
+</ul>
