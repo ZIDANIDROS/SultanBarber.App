@@ -30,3 +30,13 @@ langkah pertama kalian masuk grub ini!
 -menentukan class
 -menentukan properties
 -menentukan object
+
+---
+
+<h2>pembagian tugas</h2>
+
+Nama | NPM | Branch | Task
+:---: | :---: | :---: | :---:
+`Husein Zidan` | 4522210012 | Main | solving 
+`Adi Pramono` | 4520210001 | Adi-pramono | material 
+`Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | problem 
