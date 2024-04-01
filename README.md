@@ -53,6 +53,7 @@ Manajer :<br>
 
 
 <h4>Design</h4>
+-Figma
 -UML
 
 <h4>Hasil</h4>
