@@ -1,4 +1,12 @@
-<h4>Problem</h4>
+tugas 1
+=======
+<h4>Bahan</h4>
+-Data
+
+<h4>Teori</h4>
+- Analisis <br><br>
+- Problem  <br>
+
 Customer : <br>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
 2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
@@ -31,4 +39,22 @@ Manajer :<br>
 <h4>Design</h4>
 -Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0
 
+-Figma
+-UML
+
+<h4>Hasil</h4>
+-menentukan class
+-menentukan properties
+-menentukan object
+
+---
+
+<h2>pembagian tugas</h2>
+
+Nama | NPM | Branch | Task
+:---: | :---: | :---: | :---:
+`Husein Zidan` | 4522210012 | Main | solving 
+`Adi Pramono` | 4520210001 | Adi-pramono | material 
+`Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | problem
+`Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
 
