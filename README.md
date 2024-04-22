@@ -1,3 +1,13 @@
+Hello Guyss
+Semangat until die
+
+#uwu
+cry in the car
+
+---
+
+tugas 1
+=======
 <h4>Bahan</h4>
 -Data
 
