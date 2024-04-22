@@ -51,4 +51,4 @@ Nama | NPM | Branch | Task
 `Husein Zidan` | 4522210012 | Main | solving 
 `Adi Pramono` | 4520210001 | Adi-pramono | material 
 `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | problem
-`Dimas` | 45222100 |  |  
+`Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
