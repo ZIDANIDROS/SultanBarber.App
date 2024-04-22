@@ -1,28 +1,4 @@
-Hello Guyss
-Semangat until die
-
-#uwu
-cry in the car
-
----
-
-langkah pertama kalian masuk grub ini!
-
-1. buat branch dengan nama kalian masing-masing
-2. buat readme masing-masing pada branch kalian
-3. kerjakan tugas kalian
-4. jangan lupa di commit (bisa di server maupun di local, bebasss)
-5. infokan di grub (supaya di merge)
-6. selesai
-
----
-
-<h4>Bahan</h4>
--Data
-
-<h4>Teori</h4>
-- Analisis <br><br>
-- Problem  <br>
+<h4>Problem</h4>
 Customer : <br>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
 2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
@@ -53,9 +29,6 @@ Manajer :<br>
 
 
 <h4>Design</h4>
--UML
+-Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0
 
-<h4>Hasil</h4>
--menentukan class
--menentukan properties
--menentukan object
+
