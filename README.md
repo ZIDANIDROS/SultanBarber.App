@@ -1,10 +1,4 @@
-tugas 1
-=======
-<h4>Bahan</h4>
--Data
 
-<h4>Teori</h4>
-- Analisis <br><br>
 - Problem  <br>
 
 Customer : <br>
@@ -34,18 +28,9 @@ Manajer :<br>
 9. Membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon.<br>
 
 
-
-
 <h4>Design</h4>
 -Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0
 
--Figma
--UML
-
-<h4>Hasil</h4>
--menentukan class
--menentukan properties
--menentukan object
 
 ---
 
@@ -55,6 +40,6 @@ Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---:
 `Husein Zidan` | 4522210012 | Main | solving 
 `Adi Pramono` | 4520210001 | Adi-pramono | material 
-`Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | problem
+`Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
 `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
 
