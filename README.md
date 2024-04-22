@@ -1,11 +1,3 @@
-Hello Guyss
-Semangat until die
-
-#uwu
-cry in the car
-
----
-
 tugas 1
 =======
 <h4>Bahan</h4>
@@ -14,6 +6,7 @@ tugas 1
 <h4>Teori</h4>
 - Analisis <br><br>
 - Problem  <br>
+
 Customer : <br>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
 2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
@@ -44,6 +37,8 @@ Manajer :<br>
 
 
 <h4>Design</h4>
+-Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0
+
 -Figma
 -UML
 
@@ -62,3 +57,4 @@ Nama | NPM | Branch | Task
 `Adi Pramono` | 4520210001 | Adi-pramono | material 
 `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | problem
 `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
+
