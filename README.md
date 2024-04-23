@@ -1,6 +1,3 @@
-Use case: 
-
-=======
 <h1 align="center">TUGAS ANALISIS PEMROGRAMNAN ⁠BERBASIS OBJEK</h1>
 
 <h3>Anggota Kelompok 1</h3>
