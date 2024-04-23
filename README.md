@@ -1,6 +1,6 @@
-<h1 align="center">TUGAS ANALISIS PEMROGRAMNAN ⁠BERBASIS OBJEK</h1>
+<h1 align="center">TUGAS ANALISIS PEMROGRAMNAN ⁠BERBASIS OBJEK :electron:</h1>
 
-<h3>Anggota Kelompok 1</h3>
+<h3>Anggota Kelompok 1 :a: :parking: :b: :o2:</h3>
 
 ico | Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---: | :---:
@@ -107,7 +107,7 @@ ico | Nama | NPM | Branch | Task
 8. Membutuhkan menghitung gaji karyawan dengan akurat berdasarkan kinerja dan jam kerja mereka <br>
 9. membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
 
-# Solving
+# Solving :thinking:
 
 <h4>Customer : </h4>
 Mengetahui adanya problem yang berkaitan dengan aktor customer maka solusi yang dilakukan adalah melakukan upaya dalam implementasi  pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dalam meningkatkan jalannya kinerja operasional toko, maka dari itu toko dapat melakukan pengenalan (promosi) dari sistem atau aplikasi yang dibuat kepada customer dengan harapan dapat memudahkan customer dalam mengetahui ketersediaan pelayanan toko melalui fitur-fitur yang tersedia. <br><br>
@@ -165,7 +165,7 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
-# Dokumen
+# Dokumen :page_with_curl:
 
 # ERD :shield:
 
