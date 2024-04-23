@@ -4,7 +4,7 @@ Tukang Cukur
 <h3>Aktor</h3> 
 - Customer <br>
 - Tukang cukur <br>
-- Administrasi <br><br>
+- Administrasi <br>
 
 <h3>Teori</h3>
 <h4>Analisis</h4>
@@ -15,12 +15,12 @@ Customer : <br>
 4. Kebutuhan tersedianya informasi daftar model rambut yang ditawarkan akan membantu pelanggan dalam membuat keputusan yang tepat sesuai dengan keinginan mereka <br>
 5. Kondisi pelanggan ingin mengetahui tren terbaru dalam model rambut serta model rambut yang sesuai dengan gaya dan preferensi mereka <br>
 6. Kemudahan dalam melakukan pembayaran menjadi faktor penting bagi kenyamanan pelanggan <br>
-7. Kondisi pelanggan tidak sempat untuk pergi ke barbershop untuk memotong rambut menunjukan bahwa adanya peluang bagi barber untuk pelayanan home service <br>
+7. Kondisi pelanggan tidak sempat untuk pergi ke barbershop untuk memotong rambut menunjukan bahwa adanya peluang bagi barber untuk pelayanan home service <br><br>
 Pemotong :<br>
 1. Kondisi dimana pemotong dapat mengelola waktu mereka lebih baik dan meningkatkan kepuasaan pelanggan dengan mengurangi waktu tunggu <br>
 2. Kondisi dimana pemotong dapat cepat mengakses informasi tentang preferensi pelanggan sehingga memungkinkan memberikan layanan yang lebih sesuai <br>
 3. Kondisi dimana pemotong dapat memiliki transaksi dapat dilakukan dengan cepat dan aman, menghemat waktu pelanggan dan pemotong rambut <br>
-4. Kondisi pemotong rambut dapat dengan mudah melacak dan mengelola antrian pelanggan yang menggunakan layanan home serving, memungkinkan pemotong untuk menyesuaikan jadwal secara efisien <br>
+4. Kondisi pemotong rambut dapat dengan mudah melacak dan mengelola antrian pelanggan yang menggunakan layanan home serving, memungkinkan pemotong untuk menyesuaikan jadwal secara efisien <br> <br>
 Administrasi : <br>
 1. Kondisi adanya menuntut kemudahan dalam membuat, mengatur dan melacak berbagai promosi yang ditawarkan <br>
 2. Kebutuhan untuk mengelola informasi keanggotaan pelanggan, termasuk status keanggotaan, reward, dan riwayat transaksi <br>
@@ -43,12 +43,12 @@ Customer :<br>
 6. Membutuhkan aplikasi untuk melakukan pembayaran melalui gateway yang tersedia <br>
 7. Membutuhkan aplikasi dapat mengakses riwayat potongan rambut sebelumnya <br>
 8. Membutuhkan akses yang mudah dalam pembelian produk pada barbershop <br>
-9. Membutuhkan opsi untuk mendapatkan layanan salon di rumah mereka tanpa harus pergi ke barbershop<br>
+9. Membutuhkan opsi untuk mendapatkan layanan salon di rumah mereka tanpa harus pergi ke barbershop<br><br>
 Pemotong :<br>
 1. Membutuhkan informasi tentang antrian pelanggan untuk mengatur jadwal mereka dan memberikan layanan yang lebih efisien <br>
 2. Membutuhkan akses cepat untuk melihat pesanan dan informasi pelanggan <br>
 3. Membutuhkan proses pembayaran yang lebih variatif agar tidak merepotkan mencari cash dalam kembalian <br>
-4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br>
+4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br><br>
 Administrasi : <br>
 1. Menghadapi kesulitan dalam merancang dan melacak efektivitas promosi untuk menarik pelanggan baru dan mempertahankan pelanggan yang sudah ada <br>
 2. Membutuhkan mengelola keanggotaan pelanggan dengan efisien untuk meningkatkan loyalitas pelanggan dan memberikan layanan yang lebih baik <br>
@@ -62,9 +62,9 @@ Administrasi : <br>
 
 <h4>Solving</h4>
 Customer : <br>
-Mengetahui adanya problem yang berkaitan dengan aktor customer maka solusi yang dilakukan adalah melakukan upaya dalam implementasi  pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dalam meningkatkan jalannya kinerja operasional toko, maka dari itu toko dapat melakukan pengenalan (promosi) dari sistem atau aplikasi yang dibuat kepada customer dengan harapan dapat memudahkan customer dalam mengetahui ketersediaan pelayanan toko melalui fitur-fitur yang tersedia. <br>
+Mengetahui adanya problem yang berkaitan dengan aktor customer maka solusi yang dilakukan adalah melakukan upaya dalam implementasi  pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dalam meningkatkan jalannya kinerja operasional toko, maka dari itu toko dapat melakukan pengenalan (promosi) dari sistem atau aplikasi yang dibuat kepada customer dengan harapan dapat memudahkan customer dalam mengetahui ketersediaan pelayanan toko melalui fitur-fitur yang tersedia. <br><br>
 Pemotong : <br>
-Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem yang bertujuan untuk memudahkan pemotong dalam melakukan pekerjaan nya dalam melayani customer melalui fitur-fitur yang tersedia <br>
+Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem yang bertujuan untuk memudahkan pemotong dalam melakukan pekerjaan nya dalam melayani customer melalui fitur-fitur yang tersedia <br><br>
 Manajer :<br>
 Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada meliputi perancangan dan keberlangsungan operasional toko, maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dan meningkatkan jalanya kinerja operasional toko. Aplikasi atau sistem yang dibuat bertujuan untuk memudahkan manajer dalam mengawasi, mengatur dan mengelola keberlangsungan operasional toko.<br>
 
@@ -83,13 +83,13 @@ Pelanggan : <br>
 11. Pembelian: Membeli layanan atau produk yang ditawarkan.<br>
 12. Pemrosesan Pembayaran: Mengelola proses pembayaran untuk layanan atau produk yang dibeli. <br>
 13. Langganan: Menawarkan layanan berlangganan untuk pelanggan yang ingin mendapatkan manfaat secara berkala atau reguler.<br>
-14. Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br>
+14. Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br><br>
 Pemotong : <br>
 1. Pendaftaran: Mendaftar akun pemotong baru.<br>
 2. Masuk: Masuk ke akun pemotong yang sudah terdaftar.<br>
 3. Detektor Antrian Pelanggan: Mengidentifikasi dan mendeteksi antrian pelanggan yang sedang menunggu untuk mendapatkan layanan. <br>
 4. Tampilan Pesanan dan Keterangan Pelanggan: Menampilkan pesanan yang telah dibuat oleh pelanggan beserta keterangan atau permintaan khusus mereka.<br>
-5. Detektor Antrian Pelanggan Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br>
+5. Detektor Antrian Pelanggan Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br><br>
 Administrasi :<br>
 1. Pendaftaran: Mendaftar akun manager baru.<br>
 2. Masuk: Masuk ke akun manager yang sudah terdaftar.<br>
