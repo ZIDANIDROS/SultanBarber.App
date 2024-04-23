@@ -6,7 +6,7 @@ ico | Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---: | :---:
 :curly_haired_man: | `Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
 :boy: | `Adi Pramono` | 4520210001 | Adi-pramono | material 
-:girl: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
+:woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
 :boy:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
 :boy:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, dan Use case
 
