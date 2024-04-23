@@ -1,23 +1,22 @@
 # Features <!-- omit in toc -->⁠
 
 1. [Cerita bisnisnya](#Cerita-bisnisnya)
-2. [Apa kendalanya](#Apa-kendalanya)
-3. ⁠Solusi yang ditawarkan
-4. ⁠Siapa saja (actor) yang akan menggunakan
-5. [⁠Use Case dari masing-masing actor](#Use-cases-dan-Flowchart)
-6. ⁠Tuliskan data mentah (form/nota/kwitansi/atau dokumen) yang mereka simpan selama proses bisnis
-7. ⁠Rancang ERD
-8. ⁠Buatkan class diagram
-9. ⁠Rancang User Interface dalam bentuk wireframes dari setiap use Case masing-masing actor
-10. ⁠jelaskan UI tersebut agar pengguna (UMKM) paham alur bisnis aplikasi yang kalian buat
-
-# 1. Cerita Bisnisnya
-
-# Apa kendalanya
+2. [Problem](#Problem)
+3. [Solving](#Solving)
+4. ⁠[Actor](Actor)
+5. [⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
+6. ⁠[Dokumen](Dokumentasi)
+7. ⁠[ERD](ERD)
+8. ⁠[Class Diagram](Class-Diagram)
+9. ⁠[Design UI dan Wireframe](Design-UI-dan-Wireframe)
 
 # Cerita Bisnisnya
 
-# Apa kendalanya
+# Problem
+
+# Solving
+
+# Actor
 ---
 # Use cases dan Flowchart
 <h3>by Lucid :</h3>
@@ -26,9 +25,8 @@ Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muham
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
-
 ---
-<h2>Design</h2>
+# Design UI dan Wireframe
 <h3>by Figma :</h3>
 Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
 - Mockup Konsumen
