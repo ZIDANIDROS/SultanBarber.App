@@ -4,11 +4,11 @@
 
 ico | Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---: | :---:
-:curly_haired_man: | `Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
-:boy: | `Adi Pramono` | 4520210001 | Adi-pramono | material 
+:trollface: | `Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
+:bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material 
 :woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
-:boy:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
-:boy:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, dan Use case
+:neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
+:shipit:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, dan Use case
 
 <p align="center">
  <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
@@ -38,13 +38,13 @@ ico | Nama | NPM | Branch | Task
 1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
 2. [Actor](#Actor)
 3. [Problem](#Problem)
-4. [Fitur]
 5. [Solving](#Solving)
-6. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
-7. ⁠[Dokumen](#Dokumentasi)
-8. ⁠[ERD](#ERD)
-9. ⁠[Class Diagram](#Class-Diagram)
-10. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
+6. [Fitur](#Fitur)
+7. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
+8. ⁠[Dokumen](#Dokumentasi)
+9. ⁠[ERD](#ERD)
+10. ⁠[Class Diagram](#Class-Diagram)
+11. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
 
 # Cerita Bisnisnya
 
@@ -77,9 +77,7 @@ ico | Nama | NPM | Branch | Task
 9. Kemudahan untuk melacak kinerja karyawan secara objektif, memberikan penghargaan kepada karyawan yang bekerja keras <br>
 10. Kondisi manajer mencatat setiap transaksi pembayaran yang dilakukan oleh pelanggan, mencatat detail seperti jumlah yang dibayarkan, metode pembayaran, dan item atau layanan yang dibeli.<br>
 
----
-
-# Problem
+# Problem :interrobang:
 
 <h4>Customer :</h4><br>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
@@ -109,8 +107,6 @@ ico | Nama | NPM | Branch | Task
 8. Membutuhkan menghitung gaji karyawan dengan akurat berdasarkan kinerja dan jam kerja mereka <br>
 9. membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
 
----
-
 # Solving
 
 <h4>Customer : </h4><br>
@@ -121,8 +117,6 @@ Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang 
 
 <h4>Manajer :</h4><br>
 Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada meliputi perancangan dan keberlangsungan operasional toko, maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dan meningkatkan jalanya kinerja operasional toko. Aplikasi atau sistem yang dibuat bertujuan untuk memudahkan manajer dalam mengawasi, mengatur dan mengelola keberlangsungan operasional toko.<br>
-
----
 
 # Fitur
 <h4>Pelanggan :</h4> <br>
@@ -163,8 +157,6 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 12. Pencatatan Pembayaran: Manajer dapat mencatat setiap pembayaran yang diterima dari <br>
 13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br> <br>
 
-
----
 # Use cases dan Flowchart
 <h3>by Lucid :</h3>
 <p>Use case:</p>
@@ -173,19 +165,15 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
----
-
 # Dokumen
 
 # ERD
 
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
----
 # Class Diagram
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML.JPG)
 
----
 # Design UI dan Wireframe
 <h3>by Figma :</h3>
 Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
