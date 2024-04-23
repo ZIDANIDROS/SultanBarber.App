@@ -27,6 +27,14 @@ Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muham
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
 ---
+
+# Dokumen
+
+# ERD
+
+# Class Diagram
+
+---
 # Design UI dan Wireframe
 <h3>by Figma :</h3>
 Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
