@@ -172,7 +172,7 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muha
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
 # Class Diagram :link:
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML2.JPG)
+![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML3.JPG)
 
 # Design UI dan Wireframe :calling:
 <h3>by Figma :</h3>
