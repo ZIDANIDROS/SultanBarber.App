@@ -13,7 +13,7 @@ ico | Nama | NPM | Branch | Task
 <p align="center">
  <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">SulthanBarber.app :barber:</h2>
- <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sulthan Barber" semoga sukses sampai selesai, amin.</p>
+ <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sultan Barber" semoga sukses sampai selesai, amin.</p>
 </p>
   <p align="center">
     <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/graphs/contributors">
