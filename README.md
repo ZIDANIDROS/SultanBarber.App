@@ -48,7 +48,7 @@ ico | Nama | NPM | Branch | Task
 
 # Cerita Bisnisnya :writing_hand:
 
-Alur sesi tanya sudah tersedia di Youtube 
+Alur sesi wawancara sudah tersedia di Youtube 
 [klik disini](https://youtu.be/2IEAi9ZAAJE)
 
 # Actor :busts_in_silhouette:
