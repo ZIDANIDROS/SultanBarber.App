@@ -1,5 +1,19 @@
-===MuhammadSulthanZharfan===
-hai teman sultan
+# Features <!-- omit in toc -->⁠
+
+
+1. [Cerita bisnisnya](#github-stats-card)
+2. [Apa kendalanya](#github-extra-pins)
+3. ⁠Solusi yang ditawarkan
+4. ⁠Siapa saja (actor) yang akan menggunakan
+5. ⁠Use Case dari masing-masing actor
+6. ⁠Tuliskan data mentah (form/nota/kwitansi/atau dokumen) yang mereka simpan selama proses bisnis
+7. ⁠Rancang ERD
+8. ⁠Buatkan class diagram
+9. ⁠Rancang User Interface dalam bentuk wireframes dari setiap use Case masing-masing actor
+10. ⁠jelaskan UI tersebut agar pengguna (UMKM) paham alur bisnis aplikasi yang kalian buat
+
+===MuhammadSulthanZharfan===</br>
+# github stats card
 
 - Problem  <br>
 
