@@ -46,9 +46,9 @@ ico | Nama | NPM | Branch | Task
 10. ⁠[Class Diagram](#Class-Diagram)
 11. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
 
-# Cerita Bisnisnya
+# Cerita Bisnisnya :writing_hand:
 
-# Actor
+# Actor :busts_in_silhouette:
 
 <h4>Customer : </h4><br>
 1. Kondisi adanya kebutuhan untuk memesan jadwal potong rambut menunjukkan bahwa adanya kesulitan dalam mengatur waktu dan mendapatkan layanan potong rambut secara optimal <br>
@@ -118,7 +118,7 @@ Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang 
 <h4>Manajer :</h4><br>
 Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada meliputi perancangan dan keberlangsungan operasional toko, maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dan meningkatkan jalanya kinerja operasional toko. Aplikasi atau sistem yang dibuat bertujuan untuk memudahkan manajer dalam mengawasi, mengatur dan mengelola keberlangsungan operasional toko.<br>
 
-# Fitur
+# Fitur :receipt:
 <h4>Pelanggan :</h4> <br>
 1. Pendaftaran: Mendaftar akun pelanggan baru.<br>
 2. Masuk: Masuk ke akun pelanggan yang sudah terdaftar.<br> 
@@ -157,7 +157,7 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 12. Pencatatan Pembayaran: Manajer dapat mencatat setiap pembayaran yang diterima dari <br>
 13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br> <br>
 
-# Use cases dan Flowchart
+# Use cases dan Flowchart :hammer_and_wrench:
 <h3>by Lucid :</h3>
 <p>Use case:</p>
 <img width="700px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true"/>
@@ -167,14 +167,14 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muha
 
 # Dokumen
 
-# ERD
+# ERD :shield:
 
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
-# Class Diagram
+# Class Diagram :link:
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML.JPG)
 
-# Design UI dan Wireframe
+# Design UI dan Wireframe :calling:
 <h3>by Figma :</h3>
 Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
 - Mockup Konsumen
