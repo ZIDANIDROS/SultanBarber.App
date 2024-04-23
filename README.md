@@ -8,6 +8,7 @@ Nama | NPM | Branch | Task
 `Adi Pramono` | 4520210001 | Adi-pramono | material 
 `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
 `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
+`Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, dan Use case
 
 <p align="center">
  <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
