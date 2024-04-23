@@ -52,6 +52,9 @@ Manajer :<br>
 -menentukan properties
 -menentukan object
 
+<h2>Link Wawancara </h2>
+https://youtu.be/2IEAi9ZAAJE
+
 ---
 
 <h2>pembagian tugas</h2>
