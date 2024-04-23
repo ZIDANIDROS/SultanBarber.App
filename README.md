@@ -1,4 +1,4 @@
-# KELOMPOK 1 <!-- omit in toc -->⁠
+<h1 align="center">TUGAS ANALISIS PEMROGRAMNAN ⁠BERBASIS OBJEK</h1>
 
 <h3>Anggota Kelompok 1</h3>
 
@@ -10,9 +10,9 @@ Nama | NPM | Branch | Task
 `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">SulthanBarber.app</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sulthan Barber" semoga sukses sampai selesai, amin.</p>
 </p>
   <p align="center">
     <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/graphs/contributors">
