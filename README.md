@@ -12,7 +12,13 @@
 10. ⁠jelaskan UI tersebut agar pengguna (UMKM) paham alur bisnis aplikasi yang kalian buat
 
 # Cerita Bisnisnya
+---
+<h2>Use cases dan Flowchart</h2>
+<h3>by Lucid :</h3>
 
+Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true)
+
+Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
 
 ---
