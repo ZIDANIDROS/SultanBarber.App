@@ -4,7 +4,7 @@
 2. [Apa kendalanya](#github-extra-pins)
 3. ⁠Solusi yang ditawarkan
 4. ⁠Siapa saja (actor) yang akan menggunakan
-5. ⁠Use Case dari masing-masing actor
+5. [⁠Use Case dari masing-masing actor](#Use-cases-dan-Flowchart)
 6. ⁠Tuliskan data mentah (form/nota/kwitansi/atau dokumen) yang mereka simpan selama proses bisnis
 7. ⁠Rancang ERD
 8. ⁠Buatkan class diagram
@@ -13,7 +13,7 @@
 
 # Cerita Bisnisnya
 ---
-<h2>Use cases dan Flowchart</h2>
+# Use cases dan Flowchart
 <h3>by Lucid :</h3>
 
 Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true)
