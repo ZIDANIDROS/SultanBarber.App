@@ -106,7 +106,7 @@ Administrasi :<br>
 13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br>
 
 
-ERD : [alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
+Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
 <h2>pembagian tugas</h2>
 
