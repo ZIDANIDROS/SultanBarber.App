@@ -48,6 +48,9 @@ ico | Nama | NPM | Branch | Task
 
 # Cerita Bisnisnya :writing_hand:
 
+Alur sesi tanya sudah tersedia di link vidio di bawah ini
+[link](https://youtu.be/2IEAi9ZAAJE)
+
 # Actor :busts_in_silhouette:
 
 <h4>Customer : </h4>
