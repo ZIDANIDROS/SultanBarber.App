@@ -48,8 +48,8 @@ ico | Nama | NPM | Branch | Task
 
 # Cerita Bisnisnya :writing_hand:
 
-Alur sesi tanya sudah tersedia di link vidio di bawah ini
-[link](https://youtu.be/2IEAi9ZAAJE)
+Alur sesi tanya sudah tersedia di Youtube 
+[klik disini](https://youtu.be/2IEAi9ZAAJE)
 
 # Actor :busts_in_silhouette:
 
@@ -169,6 +169,9 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
 # Dokumen :page_with_curl:
+
+<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
+
 
 # ERD :shield:
 
