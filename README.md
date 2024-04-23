@@ -40,7 +40,7 @@ Manajer :<br>
 
 Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---:
-`Husein Zidan` | 4522210012 | Main | solving 
+`Husein Zidan` | 4522210012 | Main | solving & pembuatan UML atau Class Diagram
 `Adi Pramono` | 4520210001 | Adi-pramono | material 
 `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
 `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
