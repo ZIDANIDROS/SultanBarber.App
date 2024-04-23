@@ -5,14 +5,14 @@
 ico | Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---: | :---:
 :trollface: | `Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
-:bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material 
-:woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
-:neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
-:shipit:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, dan Use case
+:bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material & Interview
+:woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem & UI/UX Design
+:neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | Analisis & ERD 
+:shipit:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
 
 <p align="center">
  <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">SulthanBarber.app :barber:</h2>
+ <h2 align="center">SultanBarber.app :barber:</h2>
  <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sultan Barber" semoga sukses sampai selesai, amin.</p>
 </p>
   <p align="center">
