@@ -103,7 +103,7 @@ Administrasi :<br>
 10. Penentuan Gaji: Menentukan gaji karyawan berdasarkan seberapa banyak pelanggan yang dilayani atau berapa banyak penjualan yang berhasil mereka lakukan.<br>
 11. Karyawan Terbaik: Menentukan siapa karyawan terbaik, dihitung dari berapa banyak pelanggan yang dia hadapi.<br>
 12. Pencatatan Pembayaran: Manajer dapat mencatat setiap pembayaran yang diterima dari <br>
-13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br>
+13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br> <br>
 
 
 Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
