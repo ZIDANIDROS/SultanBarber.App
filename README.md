@@ -29,7 +29,16 @@ Manajer :<br>
 
 
 <h4>Design</h4>
--Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0
+<h3>Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br> </h3>
+- Mockup Konsumen
+<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
+- Mockup Pegawai 
+<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
+- Wireframe Konsumen 
+<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
+- Wireframe Pegawai
+<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
+
 
 
 ---
