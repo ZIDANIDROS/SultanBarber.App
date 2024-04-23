@@ -105,7 +105,8 @@ Administrasi :<br>
 12. Pencatatan Pembayaran: Manajer dapat mencatat setiap pembayaran yang diterima dari <br>
 13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br>
 
-ERD : ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
+
+<h3>ERD : </h3>h3>ERD : ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
 <h2>pembagian tugas</h2>
 
