@@ -1,10 +1,10 @@
 # Features <!-- omit in toc -->⁠
 
 1. [Cerita bisnisnya](#Cerita-bisnisnya)
-2. [Problem](#Problem)
-3. [Solving](#Solving)
-4. ⁠[Actor](Actor)
-5. [⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
+2. [Actor](Actor)
+3. [Problem](#Problem)
+4. [Solving](#Solving)
+5. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
 6. ⁠[Dokumen](Dokumentasi)
 7. ⁠[ERD](ERD)
 8. ⁠[Class Diagram](Class-Diagram)
@@ -12,11 +12,12 @@
 
 # Cerita Bisnisnya
 
+# Actor
+
 # Problem
 
 # Solving
 
-# Actor
 ---
 # Use cases dan Flowchart
 <h3>by Lucid :</h3>
