@@ -31,7 +31,8 @@ Manajer :<br>
 
 
 <h4>Design</h4>
-<h3>Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br> </h3>
+<h3>Figma :  </h3>
+Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
 - Mockup Konsumen
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
 - Mockup Pegawai 
