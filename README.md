@@ -1,4 +1,4 @@
-<h1 align="center">TUGAS ANALISIS PEMROGRAMNAN ⁠BERBASIS OBJEK :electron:</h1>
+<h1 align="center">TUGAS ANALISIS PEMROGRAMAN ⁠BERBASIS OBJEK :electron:</h1>
 
 <h3>Anggota Kelompok 1 :a: :parking: :b: :o2:</h3>
 
