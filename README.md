@@ -12,7 +12,7 @@ ico | Nama | NPM | Branch | Task
 
 <p align="center">
  <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">SulthanBarber.app</h2>
+ <h2 align="center">SulthanBarber.app :barber:</h2>
  <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sulthan Barber" semoga sukses sampai selesai, amin.</p>
 </p>
   <p align="center">
@@ -50,7 +50,7 @@ ico | Nama | NPM | Branch | Task
 
 # Actor :busts_in_silhouette:
 
-<h4>Customer : </h4><br>
+<h4>Customer : </h4>
 1. Kondisi adanya kebutuhan untuk memesan jadwal potong rambut menunjukkan bahwa adanya kesulitan dalam mengatur waktu dan mendapatkan layanan potong rambut secara optimal <br>
 2. Ketersediaan informasi mengenai antrian pelanggan penting untuk memberikan transparansi kepada pelanggan tentang kapan mereka dilayani <br>
 3. Kondisi adanya menuntut akses cepat dan jelas mengenai tempat parkir yang tersedia pada barber <br>
@@ -59,13 +59,13 @@ ico | Nama | NPM | Branch | Task
 6. Kemudahan dalam melakukan pembayaran menjadi faktor penting bagi kenyamanan pelanggan <br>
 7. Kondisi pelanggan tidak sempat untuk pergi ke barbershop untuk memotong rambut menunjukan bahwa adanya peluang bagi barber untuk pelayanan home service <br><br>
 
-<h4>Capster : </h4> <br>
+<h4>Capster : </h4> 
 1. Kondisi dimana pemotong dapat mengelola waktu mereka lebih baik dan meningkatkan kepuasaan pelanggan dengan mengurangi waktu tunggu <br>
 2. Kondisi dimana pemotong dapat cepat mengakses informasi tentang preferensi pelanggan sehingga memungkinkan memberikan layanan yang lebih sesuai <br>
 3. Kondisi dimana pemotong dapat memiliki transaksi dapat dilakukan dengan cepat dan aman, menghemat waktu pelanggan dan pemotong rambut <br>
 4. Kondisi pemotong rambut dapat dengan mudah melacak dan mengelola antrian pelanggan yang menggunakan layanan home serving, memungkinkan pemotong untuk menyesuaikan jadwal secara efisien <br> <br>
 
-<h4>Manager : </h4> <br>
+<h4>Manager : </h4> 
 1. Kondisi adanya menuntut kemudahan dalam membuat, mengatur dan melacak berbagai promosi yang ditawarkan <br>
 2. Kebutuhan untuk mengelola informasi keanggotaan pelanggan, termasuk status keanggotaan, reward, dan riwayat transaksi <br>
 3. Kondisi melacak persediaan barang secara real time, mengelola pembelian dan pengeluaran, sera mengatur stok barang dengan tepat <br>
@@ -79,7 +79,7 @@ ico | Nama | NPM | Branch | Task
 
 # Problem :interrobang:
 
-<h4>Customer :</h4><br>
+<h4>Customer :</h4>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
 2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
 3. Membutuhkan informasi untuk mengetahui ketersediaan parkir <br>
@@ -90,13 +90,13 @@ ico | Nama | NPM | Branch | Task
 8. Membutuhkan akses yang mudah dalam pembelian produk pada barbershop <br>
 9. Membutuhkan opsi untuk mendapatkan layanan salon di rumah mereka tanpa harus pergi ke barbershop<br><br>
 
-<h4>Capster :</h4><br>
+<h4>Capster :</h4>
 1. Membutuhkan informasi tentang antrian pelanggan untuk mengatur jadwal mereka dan memberikan layanan yang lebih efisien <br>
 2. Membutuhkan akses cepat untuk melihat pesanan dan informasi pelanggan <br>
 3. Membutuhkan proses pembayaran yang lebih variatif agar tidak merepotkan mencari cash dalam kembalian <br>
 4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br><br>
   
-<h4>Manager : </h4><br>
+<h4>Manager : </h4>
 1. Menghadapi kesulitan dalam merancang dan melacak efektivitas promosi untuk menarik pelanggan baru dan mempertahankan pelanggan yang sudah ada <br>
 2. Membutuhkan mengelola keanggotaan pelanggan dengan efisien untuk meningkatkan loyalitas pelanggan dan memberikan layanan yang lebih baik <br>
 3. Membutuhkan pengelolaan inventaris produk dan perlengkapan salon dengan efisien untuk memastikan ketersediaan barang yang memadai <br>
@@ -109,17 +109,17 @@ ico | Nama | NPM | Branch | Task
 
 # Solving
 
-<h4>Customer : </h4><br>
+<h4>Customer : </h4>
 Mengetahui adanya problem yang berkaitan dengan aktor customer maka solusi yang dilakukan adalah melakukan upaya dalam implementasi  pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dalam meningkatkan jalannya kinerja operasional toko, maka dari itu toko dapat melakukan pengenalan (promosi) dari sistem atau aplikasi yang dibuat kepada customer dengan harapan dapat memudahkan customer dalam mengetahui ketersediaan pelayanan toko melalui fitur-fitur yang tersedia. <br><br>
 
-<h4>Capster : </h4><br>
+<h4>Capster : </h4>
 Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem yang bertujuan untuk memudahkan pemotong dalam melakukan pekerjaan nya dalam melayani customer melalui fitur-fitur yang tersedia <br><br>
 
-<h4>Manajer :</h4><br>
+<h4>Manajer :</h4>
 Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada meliputi perancangan dan keberlangsungan operasional toko, maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dan meningkatkan jalanya kinerja operasional toko. Aplikasi atau sistem yang dibuat bertujuan untuk memudahkan manajer dalam mengawasi, mengatur dan mengelola keberlangsungan operasional toko.<br>
 
 # Fitur :receipt:
-<h4>Pelanggan :</h4> <br>
+<h4>Pelanggan :</h4>
 1. Pendaftaran: Mendaftar akun pelanggan baru.<br>
 2. Masuk: Masuk ke akun pelanggan yang sudah terdaftar.<br> 
 3. Detektor Antrian: Menampilkan informasi mengenai antrian pelanggan yang sedang menunggu. <br> 
@@ -135,14 +135,14 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 13. Langganan: Menawarkan layanan berlangganan untuk pelanggan yang ingin mendapatkan manfaat secara berkala atau reguler.<br>
 14. Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br><br>
 
-<h4>Capster :</h4> <br>
+<h4>Capster :</h4>
 1. Pendaftaran: Mendaftar akun pemotong baru.<br>
 2. Masuk: Masuk ke akun pemotong yang sudah terdaftar.<br>
 3. Detektor Antrian Pelanggan: Mengidentifikasi dan mendeteksi antrian pelanggan yang sedang menunggu untuk mendapatkan layanan. <br>
 4. Tampilan Pesanan dan Keterangan Pelanggan: Menampilkan pesanan yang telah dibuat oleh pelanggan beserta keterangan atau permintaan khusus mereka.<br>
 5. Detektor Antrian Pelanggan Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br><br>
 
-<h4>Manager :</h4><br>
+<h4>Manager :</h4>
 1. Pendaftaran: Mendaftar akun manager baru.<br>
 2. Masuk: Masuk ke akun manager yang sudah terdaftar.<br>
 3. Manajemen Promo: Mengelola dan menetapkan promosi atau diskon untuk pelanggan.<br>
