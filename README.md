@@ -1,7 +1,7 @@
 # Features <!-- omit in toc -->⁠
 
 1. [Cerita bisnisnya](#Cerita-bisnisnya)
-2. [Apa kendalanya](#github-extra-pins)
+2. [Apa kendalanya](#Apa-kendalanya)
 3. ⁠Solusi yang ditawarkan
 4. ⁠Siapa saja (actor) yang akan menggunakan
 5. [⁠Use Case dari masing-masing actor](#Use-cases-dan-Flowchart)
@@ -11,7 +11,13 @@
 9. ⁠Rancang User Interface dalam bentuk wireframes dari setiap use Case masing-masing actor
 10. ⁠jelaskan UI tersebut agar pengguna (UMKM) paham alur bisnis aplikasi yang kalian buat
 
+# 1. Cerita Bisnisnya
+
+# Apa kendalanya
+
 # Cerita Bisnisnya
+
+# Apa kendalanya
 ---
 # Use cases dan Flowchart
 <h3>by Lucid :</h3>
