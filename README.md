@@ -1,6 +1,40 @@
-# Features <!-- omit in toc -->⁠
+# KELOMPOK 1 <!-- omit in toc -->⁠
 
-1. [Cerita bisnisnya](#Cerita-bisnisnya)
+<h3>Anggota Kelompok 1</h3>
+
+Nama | NPM | Branch | Task
+:---: | :---: | :---: | :---:
+`Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
+`Adi Pramono` | 4520210001 | Adi-pramono | material 
+`Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
+`Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">SulthanBarber.app</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ZIDANIDROS/SulthanBarber.App" />
+    </a>
+    <a href="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    </a>
+    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SulthanBarber.App">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SulthanBarber.App/badge" />
+    </a>
+    <br />
+    <br />
+  </p>
+
+1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
 2. [Actor](Actor)
 3. [Problem](#Problem)
 4. [Solving](#Solving)
@@ -21,8 +55,8 @@
 ---
 # Use cases dan Flowchart
 <h3>by Lucid :</h3>
-
-Use case: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true)
+<p>Use case:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true"/>
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
