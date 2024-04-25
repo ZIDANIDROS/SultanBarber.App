@@ -8,28 +8,28 @@ ico | Nama | NPM | Branch | Task
 :bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material & Interview
 :woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem & UI/UX Design
 :neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | Analisis & ERD 
-:shipit:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
+:shipit:| `Muhammad Sulthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
 
 <p align="center">
- <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">SultanBarber.app :barber:</h2>
  <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sultan Barber" semoga sukses sampai selesai, amin.</p>
 </p>
   <p align="center">
-    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ZIDANIDROS/SulthanBarber.App" />
+    <a href="https://github.com/ZIDANIDROS/SultanBarber.App/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ZIDANIDROS/SultanBarber.App" />
     </a>
-    <a href="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/ZIDANIDROS/SultanBarber.App">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/ZIDANIDROS/SultanBarber.App/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    <a href="https://github.com/ZIDANIDROS/SultanBarber.App/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ZIDANIDROS/SultanBarber.App?color=0088ff" />
     </a>
-    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    <a href="https://github.com/ZIDANIDROS/SultanBarber.App/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ZIDANIDROS/SultanBarber.App?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SulthanBarber.App">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SulthanBarber.App/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SultanBarber.App">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SultanBarber.App/badge" />
     </a>
     <br />
     <br />
@@ -46,14 +46,14 @@ ico | Nama | NPM | Branch | Task
 10. ⁠[Class Diagram](#Class-Diagram)
 11. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
 
-# Cerita Bisnisnya :writing_hand:
+# Cerita Bisnisnya
 
-Alur sesi wawancara sudah tersedia di Youtube 
+Alur sesi wawancara sudah tersedia di Youtube :movie_camera:
 [klik disini](https://youtu.be/2IEAi9ZAAJE)
 
-# Actor :busts_in_silhouette:
+# Actor
 
-<h4>Customer : </h4>
+<h4>:busts_in_silhouette: Customer : </h4>
 1. Kondisi adanya kebutuhan untuk memesan jadwal potong rambut menunjukkan bahwa adanya kesulitan dalam mengatur waktu dan mendapatkan layanan potong rambut secara optimal <br>
 2. Ketersediaan informasi mengenai antrian pelanggan penting untuk memberikan transparansi kepada pelanggan tentang kapan mereka dilayani <br>
 3. Kondisi adanya menuntut akses cepat dan jelas mengenai tempat parkir yang tersedia pada barber <br>
@@ -62,13 +62,13 @@ Alur sesi wawancara sudah tersedia di Youtube
 6. Kemudahan dalam melakukan pembayaran menjadi faktor penting bagi kenyamanan pelanggan <br>
 7. Kondisi pelanggan tidak sempat untuk pergi ke barbershop untuk memotong rambut menunjukan bahwa adanya peluang bagi barber untuk pelayanan home service <br><br>
 
-<h4>Capster : </h4> 
+<h4>:busts_in_silhouette: Capster : </h4> 
 1. Kondisi dimana pemotong dapat mengelola waktu mereka lebih baik dan meningkatkan kepuasaan pelanggan dengan mengurangi waktu tunggu <br>
 2. Kondisi dimana pemotong dapat cepat mengakses informasi tentang preferensi pelanggan sehingga memungkinkan memberikan layanan yang lebih sesuai <br>
 3. Kondisi dimana pemotong dapat memiliki transaksi dapat dilakukan dengan cepat dan aman, menghemat waktu pelanggan dan pemotong rambut <br>
 4. Kondisi pemotong rambut dapat dengan mudah melacak dan mengelola antrian pelanggan yang menggunakan layanan home serving, memungkinkan pemotong untuk menyesuaikan jadwal secara efisien <br> <br>
 
-<h4>Manager : </h4> 
+<h4>:bust_in_silhouette: Manager : </h4> 
 1. Kondisi adanya menuntut kemudahan dalam membuat, mengatur dan melacak berbagai promosi yang ditawarkan <br>
 2. Kebutuhan untuk mengelola informasi keanggotaan pelanggan, termasuk status keanggotaan, reward, dan riwayat transaksi <br>
 3. Kondisi melacak persediaan barang secara real time, mengelola pembelian dan pengeluaran, sera mengatur stok barang dengan tepat <br>
@@ -80,9 +80,9 @@ Alur sesi wawancara sudah tersedia di Youtube
 9. Kemudahan untuk melacak kinerja karyawan secara objektif, memberikan penghargaan kepada karyawan yang bekerja keras <br>
 10. Kondisi manajer mencatat setiap transaksi pembayaran yang dilakukan oleh pelanggan, mencatat detail seperti jumlah yang dibayarkan, metode pembayaran, dan item atau layanan yang dibeli.<br>
 
-# Problem :interrobang:
+# Problem
 
-<h4>Customer :</h4>
+<h4>Customer : :interrobang:</h4>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
 2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
 3. Membutuhkan informasi untuk mengetahui ketersediaan parkir <br>
@@ -93,13 +93,13 @@ Alur sesi wawancara sudah tersedia di Youtube
 8. Membutuhkan akses yang mudah dalam pembelian produk pada barbershop <br>
 9. Membutuhkan opsi untuk mendapatkan layanan salon di rumah mereka tanpa harus pergi ke barbershop<br><br>
 
-<h4>Capster :</h4>
+<h4>Capster : :interrobang:</h4>
 1. Membutuhkan informasi tentang antrian pelanggan untuk mengatur jadwal mereka dan memberikan layanan yang lebih efisien <br>
 2. Membutuhkan akses cepat untuk melihat pesanan dan informasi pelanggan <br>
 3. Membutuhkan proses pembayaran yang lebih variatif agar tidak merepotkan mencari cash dalam kembalian <br>
 4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br><br>
   
-<h4>Manager : </h4>
+<h4>Manager : :interrobang:</h4>
 1. Menghadapi kesulitan dalam merancang dan melacak efektivitas promosi untuk menarik pelanggan baru dan mempertahankan pelanggan yang sudah ada <br>
 2. Membutuhkan mengelola keanggotaan pelanggan dengan efisien untuk meningkatkan loyalitas pelanggan dan memberikan layanan yang lebih baik <br>
 3. Membutuhkan pengelolaan inventaris produk dan perlengkapan salon dengan efisien untuk memastikan ketersediaan barang yang memadai <br>
@@ -110,19 +110,19 @@ Alur sesi wawancara sudah tersedia di Youtube
 8. Membutuhkan menghitung gaji karyawan dengan akurat berdasarkan kinerja dan jam kerja mereka <br>
 9. membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
 
-# Solving :thinking:
+# Solving 
 
-<h4>Customer : </h4>
+<h4>Customer : :thinking:</h4>
 Mengetahui adanya problem yang berkaitan dengan aktor customer maka solusi yang dilakukan adalah melakukan upaya dalam implementasi  pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dalam meningkatkan jalannya kinerja operasional toko, maka dari itu toko dapat melakukan pengenalan (promosi) dari sistem atau aplikasi yang dibuat kepada customer dengan harapan dapat memudahkan customer dalam mengetahui ketersediaan pelayanan toko melalui fitur-fitur yang tersedia. <br><br>
 
-<h4>Capster : </h4>
+<h4>Capster : :thinking:</h4>
 Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem yang bertujuan untuk memudahkan pemotong dalam melakukan pekerjaan nya dalam melayani customer melalui fitur-fitur yang tersedia <br><br>
 
-<h4>Manajer :</h4>
+<h4>Manajer : :thinking:</h4>
 Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada meliputi perancangan dan keberlangsungan operasional toko, maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dan meningkatkan jalanya kinerja operasional toko. Aplikasi atau sistem yang dibuat bertujuan untuk memudahkan manajer dalam mengawasi, mengatur dan mengelola keberlangsungan operasional toko.<br>
 
-# Fitur :receipt:
-<h4>Pelanggan :</h4>
+# Fitur
+<h4>Pelanggan : :receipt:</h4>
 1. Pendaftaran: Mendaftar akun pelanggan baru.<br>
 2. Masuk: Masuk ke akun pelanggan yang sudah terdaftar.<br> 
 3. Detektor Antrian: Menampilkan informasi mengenai antrian pelanggan yang sedang menunggu. <br> 
@@ -138,14 +138,14 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 13. Langganan: Menawarkan layanan berlangganan untuk pelanggan yang ingin mendapatkan manfaat secara berkala atau reguler.<br>
 14. Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br><br>
 
-<h4>Capster :</h4>
+<h4>Capster : :receipt:</h4>
 1. Pendaftaran: Mendaftar akun pemotong baru.<br>
 2. Masuk: Masuk ke akun pemotong yang sudah terdaftar.<br>
 3. Detektor Antrian Pelanggan: Mengidentifikasi dan mendeteksi antrian pelanggan yang sedang menunggu untuk mendapatkan layanan. <br>
 4. Tampilan Pesanan dan Keterangan Pelanggan: Menampilkan pesanan yang telah dibuat oleh pelanggan beserta keterangan atau permintaan khusus mereka.<br>
 5. Detektor Antrian Pelanggan Home Serving: Menawarkan layanan dirumah untuk pelanggan yang tidak dapat ke tempat potong rambut.<br><br>
 
-<h4>Manager :</h4>
+<h4>Manager : :receipt:</h4>
 1. Pendaftaran: Mendaftar akun manager baru.<br>
 2. Masuk: Masuk ke akun manager yang sudah terdaftar.<br>
 3. Manajemen Promo: Mengelola dan menetapkan promosi atau diskon untuk pelanggan.<br>
@@ -160,38 +160,44 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 12. Pencatatan Pembayaran: Manajer dapat mencatat setiap pembayaran yang diterima dari <br>
 13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br> <br>
 
-# Use cases dan Flowchart :hammer_and_wrench:
-<h3>by Lucid :</h3>
+# Use cases dan Flowchart 
+<h3>:hammer_and_wrench: by Lucid :</h3>
 <p>Use case:</p>
-<img width="700px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true"/>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Use%20Case/Use%20Case.png"/>
 
 
-Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
+Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Flowchart/Flowchart.png)
 
-# Dokumen :page_with_curl:
+# Dokumen
 
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
+<p>:page_with_curl: bentuk lembaran</p>
+<img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
+<img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
 
+# ERD
+:shield:
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
-# ERD :shield:
+# Class Diagram
+<h3>by Lucid :</h3>
 
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
+:link: Link : [klik disini](https://lucid.app/lucidchart/4dde6727-8048-4163-a0c7-6789dffc82c0/edit?invitationId=inv_53a062ca-b970-428d-9bf0-a52037a43409&page=0_0#)
 
-# Class Diagram :link:
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML3.JPG)
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/UML/UML3.JPG)
 
-# Design UI dan Wireframe :calling:
-<h3>by Figma :</h3>
-Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
+# Design UI dan Wireframe 
+<h3>by Figma : :calling:</h3>
+
+:link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
+
 - Mockup Konsumen
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
 - Mockup Pegawai 
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
 - Wireframe Konsumen 
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
 - Wireframe Pegawai
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
 
 
-LINK YOUTUBE TUGAS UTS : https://youtu.be/sbY1Y2TN5Us
+LINK YOUTUBE TUGAS UTS :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
