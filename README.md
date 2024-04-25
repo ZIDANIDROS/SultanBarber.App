@@ -11,7 +11,7 @@
 9. ⁠Rancang User Interface dalam bentuk wireframes dari setiap use Case masing-masing actor
 10. ⁠jelaskan UI tersebut agar pengguna (UMKM) paham alur bisnis aplikasi yang kalian buat
 
-# Cerita Bisnisnya
+# Cerita Bisnisnya    
 ---
 <h2>Use cases dan Flowchart</h2>
 <h3>by Lucid :</h3>
