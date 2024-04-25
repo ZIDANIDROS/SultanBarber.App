@@ -35,16 +35,8 @@ ico | Nama | NPM | Branch | Task
     <br />
   </p>
 
-1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
-2. [Actor](#Actor)
-3. [Problem](#Problem)
-5. [Solving](#Solving)
-6. [Fitur](#Fitur)
-7. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
-8. ⁠[Dokumen](#Dokumentasi)
-9. ⁠[ERD](#ERD)
-10. ⁠[Class Diagram](#Class-Diagram)
-11. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
+1. [Fitur](#Fitur)
+2. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
 
 # Cerita Bisnisnya :writing_hand:
 
