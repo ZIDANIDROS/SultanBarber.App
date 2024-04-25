@@ -37,9 +37,9 @@ ico | Nama | NPM | Branch | Task
 
   
 1. [Problem](#Problem)
-2. ⁠[⁠Design](Design)
+2. ⁠[Design](#Design)
  
-# Problem  <br>
+# Problem :thinking:
 Customer : <br>
 1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
 2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
@@ -67,7 +67,7 @@ Manajer :<br>
 9. Membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon.<br>
 
 
-# Design  <br>
+# Design :calling:
 <h3>by Figma : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br> </h3>
 - Mockup Konsumen
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
