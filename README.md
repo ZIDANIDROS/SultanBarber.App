@@ -38,81 +38,6 @@ ico | Nama | NPM | Branch | Task
 1. [Fitur](#Fitur)
 2. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
 
-# Cerita Bisnisnya :writing_hand:
-
-Alur sesi wawancara sudah tersedia di Youtube 
-[klik disini](https://youtu.be/2IEAi9ZAAJE)
-
-# Actor :busts_in_silhouette:
-
-<h4>Customer : </h4>
-1. Kondisi adanya kebutuhan untuk memesan jadwal potong rambut menunjukkan bahwa adanya kesulitan dalam mengatur waktu dan mendapatkan layanan potong rambut secara optimal <br>
-2. Ketersediaan informasi mengenai antrian pelanggan penting untuk memberikan transparansi kepada pelanggan tentang kapan mereka dilayani <br>
-3. Kondisi adanya menuntut akses cepat dan jelas mengenai tempat parkir yang tersedia pada barber <br>
-4. Kebutuhan tersedianya informasi daftar model rambut yang ditawarkan akan membantu pelanggan dalam membuat keputusan yang tepat sesuai dengan keinginan mereka <br>
-5. Kondisi pelanggan ingin mengetahui tren terbaru dalam model rambut serta model rambut yang sesuai dengan gaya dan preferensi mereka <br>
-6. Kemudahan dalam melakukan pembayaran menjadi faktor penting bagi kenyamanan pelanggan <br>
-7. Kondisi pelanggan tidak sempat untuk pergi ke barbershop untuk memotong rambut menunjukan bahwa adanya peluang bagi barber untuk pelayanan home service <br><br>
-
-<h4>Capster : </h4> 
-1. Kondisi dimana pemotong dapat mengelola waktu mereka lebih baik dan meningkatkan kepuasaan pelanggan dengan mengurangi waktu tunggu <br>
-2. Kondisi dimana pemotong dapat cepat mengakses informasi tentang preferensi pelanggan sehingga memungkinkan memberikan layanan yang lebih sesuai <br>
-3. Kondisi dimana pemotong dapat memiliki transaksi dapat dilakukan dengan cepat dan aman, menghemat waktu pelanggan dan pemotong rambut <br>
-4. Kondisi pemotong rambut dapat dengan mudah melacak dan mengelola antrian pelanggan yang menggunakan layanan home serving, memungkinkan pemotong untuk menyesuaikan jadwal secara efisien <br> <br>
-
-<h4>Manager : </h4> 
-1. Kondisi adanya menuntut kemudahan dalam membuat, mengatur dan melacak berbagai promosi yang ditawarkan <br>
-2. Kebutuhan untuk mengelola informasi keanggotaan pelanggan, termasuk status keanggotaan, reward, dan riwayat transaksi <br>
-3. Kondisi melacak persediaan barang secara real time, mengelola pembelian dan pengeluaran, sera mengatur stok barang dengan tepat <br>
-4. Kemudahan untuk melacak dan melaporkan masalah atau kerusakan peralatan, sehingga dapat segera mengambil tindakan perbaikan untuk meminimalkan dampak pada barbershop <br>
-5. Kemudahan dalam melacak penjualan memberikan informasi yang berharga tentang kinerja penjualan barber, memungkinkan manajer untuk mengidentifikasi tren dan mengevaluasi promosi <br>
-6. Pelacakan jumlah pelanggan per minggu memberikan wawasan tentang tingkat kunjungan salon dari waktu ke waktu <br>
-7. Kemudahan untuk mengatur jadwal pemeliharaan peralatan dan fasilitas secara efisien, mencegah kerusakan yang tidak terduga, dan menjaga kualitas layanan <br>
-8. Kondisi  menghitung gaji karyawan secara otomatis berdasarkan parameter yang ditentukan, mengurangi kesalahan dan adil dalam penggajian <br>
-9. Kemudahan untuk melacak kinerja karyawan secara objektif, memberikan penghargaan kepada karyawan yang bekerja keras <br>
-10. Kondisi manajer mencatat setiap transaksi pembayaran yang dilakukan oleh pelanggan, mencatat detail seperti jumlah yang dibayarkan, metode pembayaran, dan item atau layanan yang dibeli.<br>
-
-# Problem :interrobang:
-
-<h4>Customer :</h4>
-1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
-2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
-3. Membutuhkan informasi untuk mengetahui ketersediaan parkir <br>
-4. Membutuhkan informasi daftar model rambut yang tersedia <br>
-5. Membutuhkan informasi daftar model rambut yang sedang populer dan cocok dengan mereka <br>
-6. Membutuhkan aplikasi untuk melakukan pembayaran melalui gateway yang tersedia <br>
-7. Membutuhkan aplikasi dapat mengakses riwayat potongan rambut sebelumnya <br>
-8. Membutuhkan akses yang mudah dalam pembelian produk pada barbershop <br>
-9. Membutuhkan opsi untuk mendapatkan layanan salon di rumah mereka tanpa harus pergi ke barbershop<br><br>
-
-<h4>Capster :</h4>
-1. Membutuhkan informasi tentang antrian pelanggan untuk mengatur jadwal mereka dan memberikan layanan yang lebih efisien <br>
-2. Membutuhkan akses cepat untuk melihat pesanan dan informasi pelanggan <br>
-3. Membutuhkan proses pembayaran yang lebih variatif agar tidak merepotkan mencari cash dalam kembalian <br>
-4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br><br>
-  
-<h4>Manager : </h4>
-1. Menghadapi kesulitan dalam merancang dan melacak efektivitas promosi untuk menarik pelanggan baru dan mempertahankan pelanggan yang sudah ada <br>
-2. Membutuhkan mengelola keanggotaan pelanggan dengan efisien untuk meningkatkan loyalitas pelanggan dan memberikan layanan yang lebih baik <br>
-3. Membutuhkan pengelolaan inventaris produk dan perlengkapan salon dengan efisien untuk memastikan ketersediaan barang yang memadai <br>
-4. Membutuhkan pemantauan dan menangani kerusakan peralatan salon dengan cepat untuk menghindari gangguan dalam layanan <br>
-5. Membutuhkan pemantauan kinerja penjualan untuk mengidentifikasi tren dan membuat keputusan strategis yang tepat <br>
-6. Membutuhkan pemantauan jumlah pelanggan yang dilayani setiap minggu untuk mengukur kinerja salon <br>
-7. Membutuhkan perlu mengatur jadwal pemeliharaan rutin peralatan dan fasilitas salon untuk memastikan operasi yang lancar <br>
-8. Membutuhkan menghitung gaji karyawan dengan akurat berdasarkan kinerja dan jam kerja mereka <br>
-9. membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
-
-# Solving :thinking:
-
-<h4>Customer : </h4>
-Mengetahui adanya problem yang berkaitan dengan aktor customer maka solusi yang dilakukan adalah melakukan upaya dalam implementasi  pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dalam meningkatkan jalannya kinerja operasional toko, maka dari itu toko dapat melakukan pengenalan (promosi) dari sistem atau aplikasi yang dibuat kepada customer dengan harapan dapat memudahkan customer dalam mengetahui ketersediaan pelayanan toko melalui fitur-fitur yang tersedia. <br><br>
-
-<h4>Capster : </h4>
-Mengetahui adanya problem yang berkaitan dengan aktor pemotong maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem yang bertujuan untuk memudahkan pemotong dalam melakukan pekerjaan nya dalam melayani customer melalui fitur-fitur yang tersedia <br><br>
-
-<h4>Manajer :</h4>
-Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada meliputi perancangan dan keberlangsungan operasional toko, maka solusi yang dilakukan adalah melakukan upaya dalam implementasi pembuatan aplikasi atau sistem  yang bertujuan untuk mendukung dan meningkatkan jalanya kinerja operasional toko. Aplikasi atau sistem yang dibuat bertujuan untuk memudahkan manajer dalam mengawasi, mengatur dan mengelola keberlangsungan operasional toko.<br>
-
 # Fitur :receipt:
 <h4>Pelanggan :</h4>
 1. Pendaftaran: Mendaftar akun pelanggan baru.<br>
@@ -159,31 +84,6 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
-
-# Dokumen :page_with_curl:
-
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Kartu%member%fisik/kartu%member%fisiknya.jpg"/>
-
-
-# ERD :shield:
-
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
-
-# Class Diagram :link:
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML3.JPG)
-
-# Design UI dan Wireframe :calling:
-<h3>by Figma :</h3>
-Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
-- Mockup Konsumen
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
-- Mockup Pegawai 
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
-- Wireframe Konsumen 
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
-- Wireframe Pegawai
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
 
 
 LINK YOUTUBE TUGAS UTS : https://youtu.be/sbY1Y2TN5Us
