@@ -174,7 +174,6 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 <img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
 <img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
 
-
 # ERD
 :shield:
 ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
