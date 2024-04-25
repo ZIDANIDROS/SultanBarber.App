@@ -1,4 +1,40 @@
+<h1 align="center">TUGAS ANALISIS PEMROGRAMAN ⁠BERBASIS OBJEK :electron:</h1>
 
+<h3>Anggota Kelompok 1 :a: :parking: :b: :o2:</h3>
+
+ico | Nama | NPM | Branch | Task
+:---: | :---: | :---: | :---: | :---:
+:trollface: | `Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
+:bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material & Interview
+:woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem & UI/UX Design
+:neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | Analisis & ERD 
+:shipit:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
+
+<p align="center">
+ <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">SultanBarber.app :barber:</h2>
+ <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sultan Barber" semoga sukses sampai selesai, amin.</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ZIDANIDROS/SulthanBarber.App" />
+    </a>
+    <a href="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    </a>
+    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SulthanBarber.App">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SulthanBarber.App/badge" />
+    </a>
+    <br />
+    <br />
+  </p>
+  
 - Problem  <br>
 
 Customer : <br>
@@ -41,14 +77,4 @@ Manajer :<br>
 
 
 
----
-
-<h2>pembagian tugas</h2>
-
-Nama | NPM | Branch | Task
-:---: | :---: | :---: | :---:
-`Husein Zidan` | 4522210012 | Main | solving 
-`Adi Pramono` | 4520210001 | Adi-pramono | material 
-`Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem dan UI/UX Design
-`Dimas Satrio Parikesit` | 4522210002 | Dimas | ERD 
 
