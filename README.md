@@ -8,28 +8,28 @@ ico | Nama | NPM | Branch | Task
 :bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material & Interview
 :woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem & UI/UX Design
 :neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | Analisis & ERD 
-:shipit:| `Muhammad SUlthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
+:shipit:| `Muhammad Sulthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
 
 <p align="center">
- <img width="100px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">SultanBarber.app :barber:</h2>
  <p align="center">Pengembangan UKM dari unit usaha Barbershop "Sultan Barber" semoga sukses sampai selesai, amin.</p>
 </p>
   <p align="center">
-    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ZIDANIDROS/SulthanBarber.App" />
+    <a href="https://github.com/ZIDANIDROS/SultanBarber.App/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ZIDANIDROS/SultanBarber.App" />
     </a>
-    <a href="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/ZIDANIDROS/SulthanBarber.App/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/ZIDANIDROS/SultanBarber.App">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/ZIDANIDROS/SultanBarber.App/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    <a href="https://github.com/ZIDANIDROS/SultanBarber.App/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ZIDANIDROS/SultanBarber.App?color=0088ff" />
     </a>
-    <a href="https://github.com/ZIDANIDROS/SulthanBarber.App/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ZIDANIDROS/SulthanBarber.App?color=0088ff" />
+    <a href="https://github.com/ZIDANIDROS/SultanBarber.App/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ZIDANIDROS/SultanBarber.App?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SulthanBarber.App">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SulthanBarber.App/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SultanBarber.App">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SultanBarber.App/badge" />
     </a>
     <br />
     <br />
@@ -163,28 +163,28 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 # Use cases dan Flowchart 
 <h3>:hammer_and_wrench: by Lucid :</h3>
 <p>Use case:</p>
-<img width="700px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Use%20Case/Use%20Case.png?raw=true"/>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSultanZharfan/Use%20Case/Use%20Case.png?raw=true"/>
 
 
-Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
+Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSultanZharfan/Flowchart/Flowchart.png?raw=true)
 
 # Dokumen
 
 <p>:page_with_curl: bentuk lembaran</p>
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
+<img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Resi%20penjualan/resi%20Sultan%20barber.jpg"/>
+<img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
 
 
 # ERD
 :shield:
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
 # Class Diagram
 <h3>by Lucid :</h3>
 
 :link: Link : [klik disini](https://lucid.app/lucidchart/4dde6727-8048-4163-a0c7-6789dffc82c0/edit?invitationId=inv_53a062ca-b970-428d-9bf0-a52037a43409&page=0_0#)
 
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML3.JPG)
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/UML/UML3.JPG)
 
 # Design UI dan Wireframe 
 <h3>by Figma : :calling:</h3>
@@ -192,13 +192,13 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muha
 :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
 
 - Mockup Konsumen
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
 - Mockup Pegawai 
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
 - Wireframe Konsumen 
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
 - Wireframe Pegawai
-<img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
 
 
 LINK YOUTUBE TUGAS UTS : https://youtu.be/sbY1Y2TN5Us
