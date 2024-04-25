@@ -172,7 +172,7 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muha
 
 <p>:page_with_curl: bentuk lembaran</p>
 <img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
-<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Kartu%member%fisik/kartu%member%fisiknya.jpg"/>
+<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
 
 
 # ERD
@@ -180,12 +180,17 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muha
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
 
 # Class Diagram
-:link:
+<h3>by Lucid :</h3>
+
+:link: Link : [klik disini](https://lucid.app/lucidchart/4dde6727-8048-4163-a0c7-6789dffc82c0/edit?invitationId=inv_53a062ca-b970-428d-9bf0-a52037a43409&page=0_0#)
+
 ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/UML/UML3.JPG)
 
 # Design UI dan Wireframe 
 <h3>by Figma : :calling:</h3>
-Link : https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0<br><br>
+
+:link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
+
 - Mockup Konsumen
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
 - Mockup Pegawai 
