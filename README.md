@@ -171,6 +171,7 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Muha
 # Dokumen :page_with_curl:
 
 <img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
+<img width="500px" src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Kartu%member%fisik/kartu%member%fisiknya.jpg"/>
 
 
 # ERD :shield:
