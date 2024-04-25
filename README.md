@@ -74,35 +74,6 @@ Alur sesi wawancara sudah tersedia di Youtube :movie_camera:
 9. Kemudahan untuk melacak kinerja karyawan secara objektif, memberikan penghargaan kepada karyawan yang bekerja keras <br>
 10. Kondisi manajer mencatat setiap transaksi pembayaran yang dilakukan oleh pelanggan, mencatat detail seperti jumlah yang dibayarkan, metode pembayaran, dan item atau layanan yang dibeli.<br>
 
-# Problem
-
-<h4>Customer : :interrobang:</h4>
-1. Membutuhkan aplikasi untuk memesan jadwal potong rambut <br>
-2. Membutuhkan informasi antrian pelanggan untuk mengetahui kapan giliran mereka akan tiba <br>
-3. Membutuhkan informasi untuk mengetahui ketersediaan parkir <br>
-4. Membutuhkan informasi daftar model rambut yang tersedia <br>
-5. Membutuhkan informasi daftar model rambut yang sedang populer dan cocok dengan mereka <br>
-6. Membutuhkan aplikasi untuk melakukan pembayaran melalui gateway yang tersedia <br>
-7. Membutuhkan aplikasi dapat mengakses riwayat potongan rambut sebelumnya <br>
-8. Membutuhkan akses yang mudah dalam pembelian produk pada barbershop <br>
-9. Membutuhkan opsi untuk mendapatkan layanan salon di rumah mereka tanpa harus pergi ke barbershop<br><br>
-
-<h4>Capster : :interrobang:</h4>
-1. Membutuhkan informasi tentang antrian pelanggan untuk mengatur jadwal mereka dan memberikan layanan yang lebih efisien <br>
-2. Membutuhkan akses cepat untuk melihat pesanan dan informasi pelanggan <br>
-3. Membutuhkan proses pembayaran yang lebih variatif agar tidak merepotkan mencari cash dalam kembalian <br>
-4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br><br>
-  
-<h4>Manager : :interrobang:</h4>
-1. Menghadapi kesulitan dalam merancang dan melacak efektivitas promosi untuk menarik pelanggan baru dan mempertahankan pelanggan yang sudah ada <br>
-2. Membutuhkan mengelola keanggotaan pelanggan dengan efisien untuk meningkatkan loyalitas pelanggan dan memberikan layanan yang lebih baik <br>
-3. Membutuhkan pengelolaan inventaris produk dan perlengkapan salon dengan efisien untuk memastikan ketersediaan barang yang memadai <br>
-4. Membutuhkan pemantauan dan menangani kerusakan peralatan salon dengan cepat untuk menghindari gangguan dalam layanan <br>
-5. Membutuhkan pemantauan kinerja penjualan untuk mengidentifikasi tren dan membuat keputusan strategis yang tepat <br>
-6. Membutuhkan pemantauan jumlah pelanggan yang dilayani setiap minggu untuk mengukur kinerja salon <br>
-7. Membutuhkan perlu mengatur jadwal pemeliharaan rutin peralatan dan fasilitas salon untuk memastikan operasi yang lancar <br>
-8. Membutuhkan menghitung gaji karyawan dengan akurat berdasarkan kinerja dan jam kerja mereka <br>
-9. membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
 
 
 # Dokumen
