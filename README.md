@@ -163,15 +163,15 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 # Use cases dan Flowchart 
 <h3>:hammer_and_wrench: by Lucid :</h3>
 <p>Use case:</p>
-<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSultanZharfan/Use%20Case/Use%20Case.png?raw=true"/>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Use%20Case/Use%20Case.png"/>
 
 
-Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSultanZharfan/Flowchart/Flowchart.png?raw=true)
+Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Flowchart/Flowchart.png)
 
 # Dokumen
 
 <p>:page_with_curl: bentuk lembaran</p>
-<img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Resi%20penjualan/resi%20Sultan%20barber.jpg"/>
+<img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Resi%20penjualan/resi%20sulthan%20barber.jpg"/>
 <img width="500px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Kartu%20member%20fisik/kartu%20member%20fisiknya.jpg"/>
 
 
@@ -201,4 +201,4 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Muham
 <img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
 
 
-LINK YOUTUBE TUGAS UTS : https://youtu.be/sbY1Y2TN5Us
+LINK YOUTUBE TUGAS UTS :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
