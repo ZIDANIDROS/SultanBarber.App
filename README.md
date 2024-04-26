@@ -4,11 +4,11 @@
 
 ico | Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---: | :---:
-:trollface: | `Husein Zidan` | 4522210012 | Master | solving & pembuatan UML atau Class Diagram
-:bowtie: | `Adi Pramono` | 4520210001 | Adi-pramono | material & Interview
-:woman: | `Zahra Jane Arnecia` | 4522210028 | Zahra-Jane | Membuat Materi Problem & UI/UX Design
-:neckbeard:| `Dimas Satrio Parikesit` | 4522210002 | Dimas | Analisis & ERD 
-:shipit:| `Muhammad Sulthan Zharfan` | 4522210016 | SultanZharfan | Membuat fitur-fitur, Flowchart, & Use case
+:trollface: | [Husein Zidan](https://github.com/ZIDANIDROS) | 4522210012 | `Master` | solving & pembuatan UML atau Class Diagram
+:bowtie: | [Adi Pramono](https://github.com/GeneralFizi) | 4520210001 | `Adi-pramono` | material & Interview
+:woman: | [Zahra Jane Arnecia](https://github.com/janerysn) | 4522210028 | `Zahra-Jane` | Membuat Materi Problem & UI/UX Design
+:neckbeard:| [Dimas Satrio Parikesit](https://github.com/Dimsstr) | 4522210002 | `Dimas` | Analisis & ERD 
+:shipit:| [Muhammad Sulthan Zharfan](https://github.com/SulthanZharfan) | 4522210016 | `SultanZharfan` | Membuat fitur-fitur, Flowchart, & Use case
 
 <p align="center">
  <img width="100px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/LOGO/logonya-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
