@@ -73,4 +73,4 @@ ico | Nama | NPM | Branch | Task
 
 # ERD
 
-![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Dimas/ERD/image%20(6).png)
