@@ -80,6 +80,7 @@ Alur sesi wawancara sudah tersedia di Youtube :movie_camera:
 9. Kemudahan untuk melacak kinerja karyawan secara objektif, memberikan penghargaan kepada karyawan yang bekerja keras <br>
 10. Kondisi manajer mencatat setiap transaksi pembayaran yang dilakukan oleh pelanggan, mencatat detail seperti jumlah yang dibayarkan, metode pembayaran, dan item atau layanan yang dibeli.<br>
 
+
 # Problem
 
 <h4>Customer : :interrobang:</h4>
@@ -176,7 +177,7 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 
 # ERD
 :shield:
-![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Dimas/ERD/APBO%20-%20ERD.png)
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Dimas/ERD/image%20(6).png)
 
 # Class Diagram
 <h3>by Lucid :</h3>
@@ -201,3 +202,4 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 
 
 LINK YOUTUBE TUGAS UTS :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
+
