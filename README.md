@@ -147,17 +147,10 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 <h4>Manager : :receipt:</h4>
 1. Pendaftaran: Mendaftar akun manager baru.<br>
 2. Masuk: Masuk ke akun manager yang sudah terdaftar.<br>
-3. Manajemen Promo: Mengelola dan menetapkan promosi atau diskon untuk pelanggan.<br>
-4. Manajemen Keanggotaan: Mengelola program keanggotaan dan manfaat yang ditawarkan kepada anggota.<br>
-5. Manajemen Inventaris Barber: Mengelola inventaris barang-barang yang digunakan di salon cukur.<br>
-6. Pelacakan Kerusakan: Melacak dan mencatat jumlah kerusakan atau barang yang rusak.<br>
-7. Pelacakan Penjualan: Melacak dan mencatat jumlah produk yang terjual.<br>
-8. Jumlah Pelanggan per Minggu: Memonitor jumlah pelanggan yang datang setiap minggu.<br>
-9. Strategi Pemeliharaan Pelanggan: Mengembangkan strategi untuk meningkatkan loyalitas pelanggan dan memastikan pelanggan kembali lagi.<br>
-10. Penentuan Gaji: Menentukan gaji karyawan berdasarkan seberapa banyak pelanggan yang dilayani atau berapa banyak penjualan yang berhasil mereka lakukan.<br>
-11. Karyawan Terbaik: Menentukan siapa karyawan terbaik, dihitung dari berapa banyak pelanggan yang dia hadapi.<br>
-12. Pencatatan Pembayaran: Manajer dapat mencatat setiap pembayaran yang diterima dari <br>
-13. pelanggan dan melacaknya dalam sistem manajemen barbershop.<br> <br>
+3. Manajemen Inventaris Barber: Mengelola inventaris barang-barang yang digunakan di salon cukur.<br>
+4. Pelacakan Kerusakan: Melacak dan mencatat jumlah kerusakan atau barang yang rusak.<br>
+5. Pelacakan Penjualan: Melacak dan mencatat jumlah produk yang terjual.<br>
+6. Melihat Grafik Transaksi : Melihat Grafik Transaksi berdasarkan bulan yang spesifik<br><br>
 
 # Use cases dan Flowchart 
 <h3>:hammer_and_wrench: by Lucid :</h3>
