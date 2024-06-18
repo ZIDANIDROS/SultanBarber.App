@@ -85,5 +85,13 @@ ico | Nama | NPM | Branch | Task
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SulthanBarber.App/blob/MuhammadSulthanZharfan/Flowchart/Flowchart.png?raw=true)
 
+# Sequence Diagram
+<p>Pelanggan:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Pelanggan.png"/>
+<p>Capster:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Capster.png"/>
+<p>Manager:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Manager.png"/>
+
 
 LINK YOUTUBE TUGAS UTS : https://youtu.be/sbY1Y2TN5Us
