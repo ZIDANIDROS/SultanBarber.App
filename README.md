@@ -36,14 +36,8 @@ ico | Nama | NPM | Branch | Task
 
 1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
 2. [Actor](#Actor)
-3. [Problem](#Problem)
-5. [Solving](#Solving)
-6. [Fitur](#Fitur)
-7. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
-8. ⁠[Dokumen](#Dokumentasi)
-9. ⁠[ERD](#ERD)
-10. ⁠[Class Diagram](#Class-Diagram)
-11. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
+3. ⁠[Dokumen](#Dokumentasi)
+4. ⁠[ERD](#ERD)
 
 # Cerita Bisnisnya
 
@@ -161,7 +155,6 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Flowchart/Flowchart.png)
 
-
 # Sequence Diagram
 <p>Pelanggan:</p>
 <img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Pelanggan.png"/>
@@ -211,7 +204,6 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 
 - Wireframe Manajer
 <img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/Zahra-Jane/Figma/Wireframe/Wireframe%20Manajer.png" alt="Wireframe Pegawai" align="bottom">
-
 
 
 LINK YOUTUBE TUGAS UTS :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
