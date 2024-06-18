@@ -73,11 +73,12 @@ Manajer :<br>
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
 - Mockup Pegawai 
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
+- Mockup Manajer
 - Wireframe Konsumen 
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png"alt="Wireframe Konsumen" align="bottom">
 - Wireframe Pegawai
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png"alt="Wireframe Pegawai" align="bottom">
-
+- Wireframe Manajer
 
 
 
