@@ -190,20 +190,25 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
 
 - Mockup Konsumen
+  
 <img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/MockUp/Mockup%20Konsumen.png" alt="Mockup Konsumen" align="bottom">
-- Mockup Pegawai 
 
+- Mockup Pegawai
+  
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/MockUp/Mockup%20Pegawai.png" alt="diagram" align="bottom">
+
 - Mockup Manajer
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/Zahra-Jane/Figma/MockUp/Mockup%20Manajer.png" alt="diagram" align="bottom">
 
 - Wireframe Konsumen 
 <img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png" alt="Wireframe Konsumen" align="bottom">
+
 - Wireframe Pegawai
-
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png" alt="Wireframe Pegawai" align="bottom">
-- Wireframe Manajer
 
-<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png" alt="Wireframe Pegawai" align="bottom">
+- Wireframe Manajer
+<img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/Zahra-Jane/Figma/Wireframe/Wireframe%20Manajer.png" alt="Wireframe Pegawai" align="bottom">
+
 
 
 LINK YOUTUBE TUGAS UTS :link: Link : [klik disini](https://www.figma.com/file/S1PQS5DUcDWCtzFdWmuR1c/mobile-apbo?type=design&node-id=331-1351&mode=design&t=Xre9iz46xr9cBASv-0)
