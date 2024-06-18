@@ -31,10 +31,6 @@ ico | Nama | NPM | Branch | Task
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SultanBarber.App">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SultanBarber.App/badge" />
-
-    </a>
-    <br />
-    <br />
   </p>
 
 1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
