@@ -33,6 +33,7 @@ ico | Nama | NPM | Branch | Task
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SultanBarber.App/badge" />
   </p>
 
+
 1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
 2. [Actor](#Actor)
 3. [Problem](#Problem)
@@ -159,6 +160,15 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 
 
 Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Flowchart/Flowchart.png)
+
+
+# Sequence Diagram
+<p>Pelanggan:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Pelanggan.png"/>
+<p>Capster:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Capster.png"/>
+<p>Manager:</p>
+<img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Manager.png"/>
 
 # Dokumen
 
