@@ -31,10 +31,6 @@ ico | Nama | NPM | Branch | Task
     </a>
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/ZIDANIDROS/SultanBarber.App">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ZIDANIDROS/SultanBarber.App/badge" />
-
-    </a>
-    <br />
-    <br />
   </p>
 
 1. [Cerita Bisnisnya](#Cerita-Bisnisnya)
@@ -208,10 +204,9 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 <img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Konsumen.png" alt="Wireframe Konsumen" align="bottom">
 
 - Wireframe Pegawai
-
 <img src="https://github.com/ZIDANIDROS/SulthanBarber.App/blob/master/Figma/Wireframe/Wireframe%20Pegawai.png" alt="Wireframe Pegawai" align="bottom">
-- Wireframe Manajer
 
+- Wireframe Manajer
 <img src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/Zahra-Jane/Figma/Wireframe/Wireframe%20Manajer.png" alt="Wireframe Pegawai" align="bottom">
 
 
