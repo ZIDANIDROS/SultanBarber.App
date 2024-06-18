@@ -163,6 +163,9 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 <p>Manager:</p>
 <img width="700px" src="https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Manager.png"/>
 
+# Activity Diagram 
+
+<img width="700px" src="[https://github.com/ZIDANIDROS/SultanBarber.App/blob/MuhammadSulthanZharfan/Sequence%20Diagram/Manager.png](https://github.com/ZIDANIDROS/SultanBarber.App/blob/Adi-pramono-4520210001/Activity%20Diagram/activity%20diagram%20.png)"/>
 # Dokumen
 
 <p>:page_with_curl: bentuk lembaran</p>
