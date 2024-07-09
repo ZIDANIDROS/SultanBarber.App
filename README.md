@@ -188,7 +188,7 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 
 :link: Link : [klik disini](https://lucid.app/lucidchart/4dde6727-8048-4163-a0c7-6789dffc82c0/edit?invitationId=inv_53a062ca-b970-428d-9bf0-a52037a43409&page=0_0#)
 
-![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/UML/UML3.JPG)
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/UML/UML.png)
 
 # Design UI dan Wireframe 
 <h3>by Figma : :calling:</h3>
