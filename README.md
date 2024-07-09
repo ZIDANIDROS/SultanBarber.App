@@ -40,10 +40,12 @@ ico | Nama | NPM | Branch | Task
 5. [Solving](#Solving)
 6. [Fitur](#Fitur)
 7. ⁠[⁠Use Case dan Flowchart](#Use-cases-dan-Flowchart)
-8. ⁠[Dokumen](#Dokumentasi)
-9. ⁠[ERD](#ERD)
-10. ⁠[Class Diagram](#Class-Diagram)
-11. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
+8. ⁠[Sequence Diagram](#Sequence-Diagram)
+9. [Activity Diagram](#Activity-Diagram)
+10. ⁠[Dokumen](#Dokumentasi)
+11. ⁠[ERD](#ERD)
+12. ⁠[Class Diagram](#Class-Diagram)
+13. ⁠[Design UI dan Wireframe](#Design-UI-dan-Wireframe)
 
 # Cerita Bisnisnya
 
