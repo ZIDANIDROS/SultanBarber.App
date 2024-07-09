@@ -5,7 +5,7 @@
 ico | Nama | NPM | Branch | Task
 :---: | :---: | :---: | :---: | :---:
 :trollface: | [Husein Zidan](https://github.com/ZIDANIDROS) | 4522210012 | `Master` | solving & pembuatan UML atau Class Diagram
-:bowtie: | [Adi Pramono](https://github.com/GeneralFizi) | 4520210001 | `Adi-pramono` | material & Interview
+:bowtie: | [Adi Pramono](https://github.com/GeneralFizi) | 4520210001 | `Adi-pramono` | material & Interview + Sequence Diagram
 :woman: | [Zahra Jane Arnecia](https://github.com/janerysn) | 4522210028 | `Zahra-Jane` | Membuat Materi Problem & UI/UX Design
 :neckbeard:| [Dimas Satrio Parikesit](https://github.com/Dimsstr) | 4522210002 | `Dimas` | Analisis & ERD 
 :shipit:| [Muhammad Sulthan Zharfan](https://github.com/SulthanZharfan) | 4522210016 | `SultanZharfan` | Membuat fitur-fitur, Flowchart, & Use case
