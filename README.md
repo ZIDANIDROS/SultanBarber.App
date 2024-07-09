@@ -188,7 +188,7 @@ Flowchart: ![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/maste
 
 :link: Link : [klik disini](https://lucid.app/lucidchart/4dde6727-8048-4163-a0c7-6789dffc82c0/edit?invitationId=inv_53a062ca-b970-428d-9bf0-a52037a43409&page=0_0#)
 
-![alt text]([https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/UML/UML3.JPG](https://www.planttext.com/api/plantuml/png/dLNRZjD037tlLypZLbL_e49ekos2IWkDOFa0ft6pivbBc4kh2lXtd6GodQIXIEGfEVPux7Divz4wCCvBCJi8i9OzWSdHR0XZFsUCdYNB8xJRiXNZoWN3mLkd9PeH_CE3SjnT1c013jT5GLZpre8B9b7vZt21ho1pxnxc0QvHQgTL-N02uN5bdU6gx8rbzCzqxGMQu4MXP0nWTE6h6C-WHNC2ov_fh095Xj-pKE_U56Xih5KtdwDwtg0uWtZouDBiUpn3syGScdfcle14idGLt6UDT73U4fHhBNfNWmLtn7onKqSz3jJfCWhp5x4Mh497XL8y0FM2iWONY2EN-OHF1gRYvjOdafdAPRHjQCXGvaInQIdkZ4fBRTQAyYOm2JOKO8iEkBWlWzG5YX7c5T6ZhHiowNEd7GW2Zq939014vUbA_WbC2MaFVAUAujLjmYyeiDPg4BOcrpCbDfP1w9AhRxrw0vF1abkYT4kTCUpy4nf-l3mtHn_clUWneKreaPYKjzEz14L1UjoW9GuoHqdaJdSFd-WhwDJAK80gIr0Jmp3Hz0iMghb-xPEPjkYQ0gP7-exDryqDcT57BZ0LxOEiXRuWHeum05CyJJ3m_obL2A_Ysixfue7S8arEUHsE3l4DbMdsduc-CX6uekOEMBobvE2IIUgOw4SfYRM1kccoGQnkZT-6YeSwXtQj3FVyFzVIWZaQS0jLiW8CFzFSkz0MtJtjLBtxjLnUstd5TkgLcevoEM3Y4BKSEaIuTUefMx5rJeB0mOqSUXuIXtZpSlc-N_Khji_VS6nC_dlH8Ho8PyEMIl4hZRFP8wgY-P7-0G00))
+![alt text](https://github.com/ZIDANIDROS/SultanBarber.App/blob/master/UML/UML3.JPG)
 
 # Design UI dan Wireframe 
 <h3>by Figma : :calling:</h3>
