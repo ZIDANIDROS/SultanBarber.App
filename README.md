@@ -70,16 +70,10 @@ Alur sesi wawancara sudah tersedia di Youtube :movie_camera:
 4. Kondisi pemotong rambut dapat dengan mudah melacak dan mengelola antrian pelanggan yang menggunakan layanan home serving, memungkinkan pemotong untuk menyesuaikan jadwal secara efisien <br> <br>
 
 <h4>:bust_in_silhouette: Manager : </h4> 
-1. Kondisi adanya menuntut kemudahan dalam membuat, mengatur dan melacak berbagai promosi yang ditawarkan <br>
-2. Kebutuhan untuk mengelola informasi keanggotaan pelanggan, termasuk status keanggotaan, reward, dan riwayat transaksi <br>
-3. Kondisi melacak persediaan barang secara real time, mengelola pembelian dan pengeluaran, sera mengatur stok barang dengan tepat <br>
-4. Kemudahan untuk melacak dan melaporkan masalah atau kerusakan peralatan, sehingga dapat segera mengambil tindakan perbaikan untuk meminimalkan dampak pada barbershop <br>
-5. Kemudahan dalam melacak penjualan memberikan informasi yang berharga tentang kinerja penjualan barber, memungkinkan manajer untuk mengidentifikasi tren dan mengevaluasi promosi <br>
-6. Pelacakan jumlah pelanggan per minggu memberikan wawasan tentang tingkat kunjungan salon dari waktu ke waktu <br>
-7. Kemudahan untuk mengatur jadwal pemeliharaan peralatan dan fasilitas secara efisien, mencegah kerusakan yang tidak terduga, dan menjaga kualitas layanan <br>
-8. Kondisi  menghitung gaji karyawan secara otomatis berdasarkan parameter yang ditentukan, mengurangi kesalahan dan adil dalam penggajian <br>
-9. Kemudahan untuk melacak kinerja karyawan secara objektif, memberikan penghargaan kepada karyawan yang bekerja keras <br>
-10. Kondisi manajer mencatat setiap transaksi pembayaran yang dilakukan oleh pelanggan, mencatat detail seperti jumlah yang dibayarkan, metode pembayaran, dan item atau layanan yang dibeli.<br>
+1. Kondisi melacak persediaan barang secara real time, serta mengatur stok barang dengan tepat <br>
+2. Kemudahan untuk melacak dan melaporkan masalah atau kerusakan peralatan, sehingga dapat segera mengambil tindakan perbaikan untuk meminimalkan dampak pada barbershop <br>
+3. Kemudahan dalam melacak penjualan memberikan informasi yang berharga tentang kinerja penjualan barber <br>
+4.Kondisi kemudahan dalam melihat detail penjualan atau riwayat transaksi.<br>
 
 
 # Problem
@@ -102,15 +96,10 @@ Alur sesi wawancara sudah tersedia di Youtube :movie_camera:
 4. Membutuhkan cara untuk mengatur dan memprioritaskan antrian pelanggan di berbagai lokasi yang berbeda<br><br>
   
 <h4>Manager : :interrobang:</h4>
-1. Menghadapi kesulitan dalam merancang dan melacak efektivitas promosi untuk menarik pelanggan baru dan mempertahankan pelanggan yang sudah ada <br>
-2. Membutuhkan mengelola keanggotaan pelanggan dengan efisien untuk meningkatkan loyalitas pelanggan dan memberikan layanan yang lebih baik <br>
-3. Membutuhkan pengelolaan inventaris produk dan perlengkapan salon dengan efisien untuk memastikan ketersediaan barang yang memadai <br>
-4. Membutuhkan pemantauan dan menangani kerusakan peralatan salon dengan cepat untuk menghindari gangguan dalam layanan <br>
-5. Membutuhkan pemantauan kinerja penjualan untuk mengidentifikasi tren dan membuat keputusan strategis yang tepat <br>
-6. Membutuhkan pemantauan jumlah pelanggan yang dilayani setiap minggu untuk mengukur kinerja salon <br>
-7. Membutuhkan perlu mengatur jadwal pemeliharaan rutin peralatan dan fasilitas salon untuk memastikan operasi yang lancar <br>
-8. Membutuhkan menghitung gaji karyawan dengan akurat berdasarkan kinerja dan jam kerja mereka <br>
-9. membutuhkan cara untuk mencatat dan melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
+1. Membutuhkan pengelolaan inventaris produk dan perlengkapan salon dengan efisien untuk memastikan ketersediaan barang yang memadai <br>
+2. Membutuhkan pemantauan dan menangani kerusakan peralatan salon dengan cepat untuk menghindari gangguan dalam layanan <br>
+3. Membutuhkan pemantauan kinerja penjualan untuk mengidentifikasi tren dan membuat keputusan strategis yang tepat <br>
+4. membutuhkan cara untuk  melacak pembayaran yang dilakukan oleh pelanggan untuk layanan atau produk yang mereka beli di salon<br>
 
 # Solving 
 
@@ -150,10 +139,9 @@ Mengetahui adanya problem yang berkaitan dengan aktor Manajer, problem yang ada 
 <h4>Manager : :receipt:</h4>
 1. Pendaftaran: Mendaftar akun manager baru.<br>
 2. Masuk: Masuk ke akun manager yang sudah terdaftar.<br>
-3. Manajemen Inventaris Barber: Mengelola inventaris barang-barang yang digunakan di salon cukur.<br>
-4. Pelacakan Kerusakan: Melacak dan mencatat jumlah kerusakan atau barang yang rusak.<br>
-5. Pelacakan Penjualan: Melacak dan mencatat jumlah produk yang terjual.<br>
-6. Melihat Grafik Transaksi : Melihat Grafik Transaksi berdasarkan bulan yang spesifik<br><br>
+3. Manajemen Inventaris Barber: Mengelola inventaris barang-barang yang digunakan di salon cukur dan melacak jumlah kerusakan atau barang yang rusak.<br>
+4. Pelacakan Penjualan Jasa dan Produk : Melacak dan mencatat jumlah produk yang terjual dan detail transaksi.<br>
+5. Melihat Grafik Transaksi : Melihat Grafik Transaksi berdasarkan bulan yang spesifik<br><br>
 
 # Use cases dan Flowchart 
 <h3>:hammer_and_wrench: by Lucid :</h3>
